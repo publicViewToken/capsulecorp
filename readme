@@ -1,3 +1,19 @@
 CapsuleCorp
 
 Public and secret timed messages on the eth blockchain,
+
+
+video soon, 
+
+you will need to switch to ropsten ethereum network
+
+npm install files 
+npm start 
+react dapp will start up
+
+
+
+contract simply records text  and takes in a number for time.
+
+
+
